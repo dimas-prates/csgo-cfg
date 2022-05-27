@@ -1,0 +1,4 @@
+Global shadow Quality: high
+Model/texture detail: low 
+Effect Detail: high
+Shader detail: high
